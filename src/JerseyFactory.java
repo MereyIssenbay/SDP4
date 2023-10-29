@@ -1,0 +1,3 @@
+interface JerseyFactory {
+    Jersey createJersey();
+}

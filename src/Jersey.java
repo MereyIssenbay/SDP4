@@ -1,0 +1,3 @@
+interface Jersey {
+    void design();
+}
